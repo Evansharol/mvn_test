@@ -8,6 +8,6 @@ public class controller {
 
     @GetMapping("/")
     public String home() {
-        return "Learning triggers POLLSCM!";
+        return "Testing Jenkins!";
     }
 }
