@@ -8,6 +8,6 @@ public class controller {
 
     @GetMapping("/")
     public String home() {
-        return "Testing Jenkins!";
+        return "Testing Jenkins - PollSCM!";
     }
 }
