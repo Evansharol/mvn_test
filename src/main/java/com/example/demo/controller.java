@@ -8,6 +8,6 @@ public class controller {
 
     @GetMapping("/")
     public String home() {
-        return "Welcome to devops!";
+        return "Learning triggers!";
     }
 }
